@@ -14,9 +14,8 @@ https://github.com/overextended/ox_lib
 https://discord.gg/ZyNuMCBeMh
 
 # Preview
-Automatic Chat Message to everyone
 ![2](https://github.com/johnbradleyherman/FiveM-medSystem/assets/150640875/14011196-fe0b-43bc-94f2-7705f8a58e63)
 
-Player Medical Info
+
 ![1](https://github.com/johnbradleyherman/FiveM-medSystem/assets/150640875/af95cee0-0984-4306-8738-1c8379e2f8fa)
 
